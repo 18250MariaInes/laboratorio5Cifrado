@@ -8,7 +8,7 @@ Instalar las siguientes librerias
 ### Ejecución
 Para parte Merkle´s puzzles ejecutar ``` python merkle.py```
 
-Para parte DH puzzles ejecutar ``` python parte3.py```
+Para parte Diffie Hellman ejecutar ``` python parte3.py```
 
 ### Demo Merkle´s puzzles
 [Video](https://youtu.be/aX8XaHg6LF8)
