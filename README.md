@@ -13,6 +13,6 @@ Para parte DH puzzles ejecutar ``` python parte3.py```
 ### Demo Merkle´s puzzles
 
 
-### Demo Parte Expansión de llaves
+### Demo Parte Diffie Hellman
 [Video](https://youtu.be/YzD-OJyR8LA)
 
